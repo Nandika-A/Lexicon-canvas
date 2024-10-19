@@ -1,1 +1,2 @@
 # Lexicon-canvas
+Lexicon Canva is an app designed to boost your vocabulary and writing skills. Each day, users can practice new words by writing and saving them, along with their meanings and sentences that use the words in context. The app also challenges users to improve their writing by incorporating two or more newly learned words into a sentence, encouraging deeper understanding and creative usage. Perfect for language learners and anyone looking to expand their word knowledge and writing prowess.
